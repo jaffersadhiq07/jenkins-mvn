@@ -46,5 +46,7 @@ pipeline {
     		    writeFile(file: "/var/www/html/index.html", text: "this test data and test website", encoding: "UTF-8") 
 	 }
 }
+
 }
+
 }
